@@ -10,7 +10,7 @@ function YearInput({ year, setYear }) {
         type="number"
         id="year"
         min="1900"
-        max="2000"
+        max="2025"
       />
     </Col>
   );
