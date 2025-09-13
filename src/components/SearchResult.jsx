@@ -8,7 +8,7 @@ function SearchResult({ movies }) {
       <Card.Body>
         <Row>
           {movies.map(movie => (
-            <Col key={movie.id} md={4} className="mb-4">
+            <Col key={movie.id} md={2} className="mb-2">
               <MovieCard movie={movie} />
             </Col>
           ))}
