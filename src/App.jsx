@@ -5,10 +5,6 @@ import SearchForm from './components/SearchForm';
 import SearchResult from './components/SearchResult';
 import { searchMovie } from './api/searchMovie';
 
-// const API_KEY = '395e2453';
-// const API_KEY_TMDB = '38b45ed5fa06954a0aeefd258bb8860c';
-// const baseURL = 'https://api.themoviedb.org/3/';
-
 function App() {
   const [movies, setMovies] = useState([]);
 

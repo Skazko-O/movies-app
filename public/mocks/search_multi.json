@@ -1,0 +1,591 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "id": 2160348,
+            "name": "Sonic",
+            "original_name": "Sonic",
+            "media_type": "person",
+            "popularity": 0.0214,
+            "gender": 0,
+            "known_for_department": "Crew",
+            "profile_path": null,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/ttSqbpXPTBITtX9ijGmyYv58Kno.jpg",
+                    "id": 20662,
+                    "title": "Robin Hood",
+                    "original_title": "Robin Hood",
+                    "overview": "When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man's sword to his family in Nottingham. There, he assumes Robert's identity; romances his widow, Marion; and draws the ire of the town's sheriff and King John's henchman, Godfrey.",
+                    "poster_path": "/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [
+                        28,
+                        12,
+                        36
+                    ],
+                    "popularity": 7.2608,
+                    "release_date": "2010-05-12",
+                    "video": false,
+                    "vote_average": 6.394,
+                    "vote_count": 4795
+                }
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mN1Lt8sKRUXRz6vBlMe6GHOHcog.jpg",
+            "id": 57982,
+            "title": "Sonic: Night of the Werehog",
+            "original_title": "Sonic: Night of the Werehog",
+            "overview": "One night of severe rain, Sonic and Chip come by an old mansion where they decide to take shelter. Whilst Sonic seems unfazed by the creepy surroundings, Chip is scared out of its wits. The mansion is inhabited by three scary - yet sweet - ghosts who like to play tricks on innocent visitors: A cute and girlish ghost who likes to collect photographs of her terrified guests. The remaining two boy ghosts compete for her attention by taking photographs of their scare victims. Their scariness is the key to popularity in the realm of ghosts. The boy ghosts are excited at the prospect of hunting their new and unusual guests, Sonic and Chip. Who will win the ultimate competition to her heart?",
+            "poster_path": "/8EpqInXBpIqtf7csOmHFsdEvIj3.jpg",
+            "media_type": "movie",
+            "original_language": "ja",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751,
+                14,
+                27
+            ],
+            "popularity": 1.3525,
+            "release_date": "2008-11-21",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 47
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hdjpNQ1ndLx0Tz8hmo7IoROjJml.jpg",
+            "id": 78422,
+            "name": "Sonic the Hedgehog",
+            "original_name": "ソニック・ザ・ヘッジホッグ",
+            "overview": "Sonic's nemesis Dr. Robotnik has been banished from the Land of Darkness by an evil Metal Robotnik. And if that wasn't bad enough, the devious doctor tells Sonic that the Robot Generator has been sabotaged and will blow Planet Freedom to kingdom come. What should possibly make Sonic trust his worst enemy?",
+            "poster_path": "/iB7rNFPDkJGTo9QdyWuBaEzYUzt.jpg",
+            "media_type": "tv",
+            "original_language": "ja",
+            "genre_ids": [
+                16
+            ],
+            "popularity": 1.7905,
+            "first_air_date": "1996-01-26",
+            "vote_average": 8.8,
+            "vote_count": 8,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zytD4qMM8pOEhFtttePGdk7Wl8H.jpg",
+            "id": 133367,
+            "name": "Sonic Colors: Rise of the Wisps",
+            "original_name": "Sonic Colors: Rise of the Wisps",
+            "overview": "Set in the world of Sonic Colors, the story follows Sonic and Tails as they travel to Sweet Mountain with their new friend, a Jade Wisp, to free the captured Wisps from the evil Dr. Eggman and his henchrobots.",
+            "poster_path": "/2OyNphGhUfpHt8qfaDxIm9c7HrK.jpg",
+            "media_type": "tv",
+            "original_language": "en",
+            "genre_ids": [
+                16
+            ],
+            "popularity": 0.6686,
+            "first_air_date": "2021-08-19",
+            "vote_average": 7.8,
+            "vote_count": 4,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wkiP6KZIE9HiB13k8R8l6XmkKgi.jpg",
+            "id": 62211,
+            "name": "Sonic Boom",
+            "original_name": "Sonic Boom",
+            "overview": "The speedy blue hedgehog Sonic with sidekick Tails and pals Knuckles, Amy and Sticks tries to ward off the evil plans of Dr. Eggman, who is hellbent on taking over the world. Sonic faces regular battles with Eggman's henchmen, including loyal robots Orbot and Cubot, evil interns, and giant, robotic monsters.",
+            "poster_path": "/d8m6CBrCjcLsIH8iGV3sKdLkoAg.jpg",
+            "media_type": "tv",
+            "original_language": "en",
+            "genre_ids": [
+                10759,
+                16,
+                35,
+                10765,
+                10751
+            ],
+            "popularity": 4.6869,
+            "first_air_date": "2014-11-08",
+            "vote_average": 7.4,
+            "vote_count": 355,
+            "origin_country": [
+                "FR",
+                "US"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+            "id": 939243,
+            "title": "Sonic the Hedgehog 3",
+            "original_title": "Sonic the Hedgehog 3",
+            "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+            "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751
+            ],
+            "popularity": 29.3732,
+            "release_date": "2024-12-19",
+            "video": false,
+            "vote_average": 7.661,
+            "vote_count": 2922
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gtBlMaiFnD3iYZRmkcWgFRYXJFP.jpg",
+            "id": 77175,
+            "name": "Soni-Ani: Super Sonico The Animation",
+            "original_name": "そにアニ -SUPER SONICO THE ANIMATION-",
+            "overview": "\"Super Sonico\" debuted as Nitro+'s live mascot girl, and her world will be brought to life in the anime, \"SoniAni - SUPER SONICO THE ANIMATION -\"!",
+            "poster_path": "/dOPrKofNEryFCTuJ5Zl61wfMyHi.jpg",
+            "media_type": "tv",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "popularity": 0.9317,
+            "first_air_date": "2014-01-06",
+            "vote_average": 7.7,
+            "vote_count": 21,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "id": 109277,
+            "title": "Death Angel - Sonic German Beatdown - Live in Germany",
+            "original_title": "Death Angel - Sonic German Beatdown - Live in Germany",
+            "overview": "Five years after the acclaimed comeback album \"The Art Of Dying\", and the following album “Killing Season”, the legendary and one of the most influential bands of the Bay Area Thrash Metal scene DEATH ANGEL will release a DVD with two full length concerts filmed in Germany. The DVD was filmed live at Rockhard Festival 2007 and in Adelsheim.in 2008. It contains some of the new Songs, two Clips and a lot of old DEATH ANGEL stuff which is still seriously cult! This is the first live DVD ever in the history of DEATH ANGEL and it also contains a Live CD. So, what to say more: Grab \"Sonic German Beatdown\" and see by yourself that DEATH ANGEL are more alive than ever before! It's just amazing…",
+            "poster_path": "/p4mYjweSF3uw0QMiGG6DpGuTmyf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10402
+            ],
+            "popularity": 0.1113,
+            "release_date": "2009-05-15",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/94CN1DuwRceCCvUDIP83SrE45Di.jpg",
+            "id": 2404,
+            "name": "Sonic the Hedgehog",
+            "original_name": "Sonic the Hedgehog",
+            "overview": "Sonic, Tails, Princess Sally, and a band of freedom fighters battle to overthrow Dr. Robotnik, a despotic dictator who conquered their home planet Mobius years ago, and rules it as a polluted industrial dystopia.",
+            "poster_path": "/zQFFrIbgO3yw9Y9gf2vznEvrJ9E.jpg",
+            "media_type": "tv",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10759,
+                10765,
+                10762
+            ],
+            "popularity": 2.9094,
+            "first_air_date": "1993-09-18",
+            "vote_average": 7.0,
+            "vote_count": 163,
+            "origin_country": [
+                "IT",
+                "US"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Ep5ppQvqFvaMQrX3ENmM4jpNPI.jpg",
+            "id": 10926,
+            "name": "Sonic X",
+            "original_name": "ソニックX",
+            "overview": "After getting stranded on Earth, Sonic and his friends team up with 12-year-old Chris Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.",
+            "poster_path": "/1EFqCQv0td8LMogXCpNEAW3uxgL.jpg",
+            "media_type": "tv",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                10759,
+                35
+            ],
+            "popularity": 5.343,
+            "first_air_date": "2003-04-06",
+            "vote_average": 7.6,
+            "vote_count": 293,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vdUpWEitz9om8xXFwbNPdAt47pT.jpg",
+            "id": 133341,
+            "name": "Team Sonic Racing Overdrive",
+            "original_name": "Team Sonic Racing Overdrive",
+            "overview": "Team Sonic, Team Rose, and Team Dark compete on the Wisp Circuit course, while Dr. Eggman is up to his usual trickery.",
+            "poster_path": "/1HxYGPD7HbXTqa86dsPMI4HICnG.jpg",
+            "media_type": "tv",
+            "original_language": "en",
+            "genre_ids": [
+                16
+            ],
+            "popularity": 0.5054,
+            "first_air_date": "2019-03-16",
+            "vote_average": 7.2,
+            "vote_count": 7,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o7d5Dvz4L4YBxrddO98vhX0ERiR.jpg",
+            "id": 74233,
+            "name": "Monster Sonic! D'Artagnan no Idol Sengen",
+            "original_name": "モンソニ! ダルタニャンのアイドル宣言",
+            "overview": "When D'Artagnan went to Tokyo for a little fun, she spotted an unforgettable sight: Lucifer singing while basking in moonlight in a park. From that moment, no matter if she was asleep or awake, D'Artagnan's heart would not stop throbbing for some reason. One day, D'Artagnan sees a concert by the popular idol act Angely Diva at her friend Izumo's invitation. There, she resolved to follow her idol dreams, and the story of song and miracles begins.",
+            "poster_path": "/wif0GOF02lBBKBYIYSeQGNnHMfw.jpg",
+            "media_type": "tv",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                10759
+            ],
+            "popularity": 0.708,
+            "first_air_date": "2017-06-14",
+            "vote_average": 8.0,
+            "vote_count": 1,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "adult": false,
+            "id": 2569995,
+            "name": "Sonic Fruit",
+            "original_name": "Sonic Fruit",
+            "media_type": "person",
+            "popularity": 0.0,
+            "gender": 0,
+            "known_for_department": "Sound",
+            "profile_path": null,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/yecjXRcoaI0fZM82GEyXA7c7sjB.jpg",
+                    "id": 683875,
+                    "title": "By Day's End",
+                    "original_title": "By Day's End",
+                    "overview": "A lesbian couple's efforts to mend their deteriorating relationship are put on hold when a pandemic disease that causes insatiable hunger ravages the world around them.",
+                    "poster_path": "/tZcvj7lDlTklzCpJSYemV47ZXmk.jpg",
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [
+                        27,
+                        10749
+                    ],
+                    "popularity": 1.9497,
+                    "release_date": "2020-03-17",
+                    "video": false,
+                    "vote_average": 4.0,
+                    "vote_count": 10
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/4jDbOf47uK86nuupSMDyYe5DOKF.jpg",
+                    "id": 1088080,
+                    "title": "Older Gods",
+                    "original_title": "Older Gods",
+                    "overview": "After the disappearance of his troubled friend, American Chris Rivers travels to the remote Welsh countryside to investigate what happened – leading him to a dark apocalyptic cult.",
+                    "poster_path": "/tCL4U4nySiijUF2wTuB247KJbmT.jpg",
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [
+                        27,
+                        9648,
+                        53
+                    ],
+                    "popularity": 0.8254,
+                    "release_date": "2023-03-01",
+                    "video": false,
+                    "vote_average": 6.3,
+                    "vote_count": 56
+                }
+            ]
+        },
+        {
+            "adult": false,
+            "id": 3072178,
+            "name": "Sonic Hsu",
+            "original_name": "Sonic Hsu",
+            "media_type": "person",
+            "popularity": 0.0071,
+            "gender": 0,
+            "known_for_department": "Acting",
+            "profile_path": null,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/oXvF3ZIk7puZrvEX4BJlrNtYiuR.jpg",
+                    "id": 550059,
+                    "title": "Thirty Years of Adonis",
+                    "original_title": "三十儿立",
+                    "overview": "Yang Ke, a Beijing Opera actor, is fatefully driven into the underworld of masculine sex workers, and becomes a class of his own. He finds himself on a roller coaster between heavenly love with both men and women, and a living hell ensnared by devious villains and hypocrites. Despite his faith, endeavor and willingness to give, he remains a prisoner to his karma. Hell awaits when heaven seems near, and the ultimate truth is revealed only in a heartbreaking moment from which there is no return.",
+                    "poster_path": "/tB2yvuKrAZ3kMs09VkuAwvmsgDi.jpg",
+                    "media_type": "movie",
+                    "original_language": "zh",
+                    "genre_ids": [
+                        18
+                    ],
+                    "popularity": 3.8483,
+                    "release_date": "2017-11-27",
+                    "video": false,
+                    "vote_average": 4.7,
+                    "vote_count": 15
+                }
+            ]
+        },
+        {
+            "adult": false,
+            "id": 4184259,
+            "name": "Sonic Fuel",
+            "original_name": "Sonic Fuel",
+            "media_type": "person",
+            "popularity": 0.0,
+            "gender": 0,
+            "known_for_department": "Sound",
+            "profile_path": null,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "id": 1157244,
+                    "title": "Grave Spirits",
+                    "original_title": "Grave Spirits",
+                    "overview": "A high definition short film by award-winning filmmaker Louie Schwartzberg",
+                    "poster_path": null,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [
+                        27
+                    ],
+                    "popularity": 1.3825,
+                    "release_date": "",
+                    "video": false,
+                    "vote_average": 0.0,
+                    "vote_count": 0
+                }
+            ]
+        },
+        {
+            "adult": false,
+            "id": 1156252,
+            "name": "Fred 'Sonic' Smith",
+            "original_name": "Fred 'Sonic' Smith",
+            "media_type": "person",
+            "popularity": 0.0143,
+            "gender": 2,
+            "known_for_department": "Acting",
+            "profile_path": "/nFIQQ6aZCiBG4VzYxJOwy34Gh3e.jpg",
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/evL0yQMTjzDT5TcdKTCCnZL3DYV.jpg",
+                    "id": 60645,
+                    "title": "MC5: A True Testimonial",
+                    "original_title": "MC5: A True Testimonial",
+                    "overview": "This documentary, made over a period of eight years, tells the remarkable story of an extremely influential rock'n'roll band. Starting from their mid-60's garage band roots (sounding amazingly like the Sonics), the Motor City 5 deveoped into an icon for a brand of loud, crushing music reflecting their industrial roots. Even if you don't care for their music (and you're bound to like even a few of their songs), their story is fascinating. It combines 60's protest, youthful braggadocio, and a style of music that would help carry one to the likes of Iggy and the Stooges (not to mention certain aspects of punk rock). This film is clearly a labor of love, combining extraordinarily rare live shows, still shots, a nearly-continuous backdrop of MC5 tunes, penetrating interviews with the remaining members and their spouses, and even FBI surveillance shots. It's the ultimate testimonial to a band that only gains in stature as time goes on.",
+                    "poster_path": "/4xGZ5B8eQ9HDthOeFkJFtl7tgSb.jpg",
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [
+                        10402,
+                        99
+                    ],
+                    "popularity": 0.3456,
+                    "release_date": "2002-02-02",
+                    "video": false,
+                    "vote_average": 7.4,
+                    "vote_count": 5
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/vXhcgOUhLjuduyhnV08uNrWccA.jpg",
+                    "id": 148778,
+                    "title": "MC5: Kick Out the Jams",
+                    "original_title": "MC5: Kick Out the Jams",
+                    "overview": "Kick Out the Jams features many never before seen films of the MC5 as created by Leni Sinclair & conceptual artist Cary Loren during the peak of their career.\r Featuring: Looking At You,  Ramblin' Rose,  Kick Out The Jams,  Black To Comm,  I Want You Right Now,  Rocket Reducer No. 62 (Rama Lama Fa Fa Fa),  The Pledge Song,  Come Together,  Starship,  Motor City Is Burning, Shakin' Street,  John Sinclair Interview 2003",
+                    "poster_path": "/qs0790ieyWOB4nWBtodatysMrev.jpg",
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [
+                        10402,
+                        99
+                    ],
+                    "popularity": 0.0852,
+                    "release_date": "1999-09-07",
+                    "video": false,
+                    "vote_average": 8.0,
+                    "vote_count": 2
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "id": 309588,
+                    "title": "Rockin' in the USA",
+                    "original_title": "Rockin' in the USA",
+                    "overview": "Twenty-two rare German television appearances from 1960s and '70s American rock and blues acts are featured on this disc, making it a veritable time capsule of rock 'n' roll. Includes performances by The Doors, The Beach Boys, Blood Sweat &amp; Tears, Canned Heat, Chuck Berry, B.B. King, The Grateful Dead, The Byrds, Chicago, The Steve Miller Band, Little Feat, MC5 and Captain Beefheart.",
+                    "poster_path": null,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [],
+                    "popularity": 0.0634,
+                    "release_date": "2003-12-30",
+                    "video": false,
+                    "vote_average": 0.0,
+                    "vote_count": 0
+                }
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rIdPIbD7lNJl8EbQIuCWvoArBT6.jpg",
+            "id": 133144,
+            "name": "Sonic for Hire",
+            "original_name": "Sonic for Hire",
+            "overview": "Sonic is decipted in the series as a man out of a job and has a lack-of-income. So, Tails decides that he should earn money by working for third-party video games.",
+            "poster_path": "/sn5RqwngufKXDtO63jFjZcL8fnV.jpg",
+            "media_type": "tv",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "popularity": 0.6465,
+            "first_air_date": "2011-02-13",
+            "vote_average": 7.2,
+            "vote_count": 5,
+            "origin_country": []
+        },
+        {
+            "adult": false,
+            "id": 1836874,
+            "name": "Sonic Violence",
+            "original_name": "Sonic Violence",
+            "media_type": "person",
+            "popularity": 0.0071,
+            "gender": 0,
+            "known_for_department": "Acting",
+            "profile_path": null,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "id": 336772,
+                    "title": "Hard 'N' Heavy: Grindcore",
+                    "original_title": "Hard 'N' Heavy: Grindcore",
+                    "overview": "Performances are bookended by interviews by the respective bands and Earache's Digby Pearson.  01. Napalm Death - If The Truth Be Known/Suffer The Children  02. Morbid Angel - Immortal Rites  03. Nocturnus - Lake of Fire  04. Paradise Lost - Dead Emotion  05. Prophecy of Doom - Rage Against Time  06. Godflesh - Christ Bait Rising  07. Cerebral Fix - Unity For Who/Enter The Turmoil  08. Sonic Violence - Manic  09. Bolt Thrower - Cenotaph  10. Vengeance Rising - Before The Time  11. Entombed - Left Hand Path  12. Carcass - Reek of Putrefaction",
+                    "poster_path": "/4Qf1XqXVAuBZiNwsqOxgx4VPskw.jpg",
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [
+                        10402,
+                        99
+                    ],
+                    "popularity": 0.0214,
+                    "release_date": "1991-02-19",
+                    "video": false,
+                    "vote_average": 10.0,
+                    "vote_count": 1
+                }
+            ]
+        },
+        {
+            "adult": false,
+            "id": 2581274,
+            "name": "Sonic Barometer",
+            "original_name": "Sonic Barometer",
+            "media_type": "person",
+            "popularity": 0.0071,
+            "gender": 0,
+            "known_for_department": "Directing",
+            "profile_path": null,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "id": 687184,
+                    "title": "Grian Dubh",
+                    "original_title": "Grian Dubh",
+                    "overview": "A developer comes across the artifacts of previous occupants in a house he is renovating; one is a childlike drawing depicting a malevolent force, an ominous portent of what could be his doppelgänger? Caveat Emptor…",
+                    "poster_path": "/67yZrWpLxORWt4l4eetBClZmJhN.jpg",
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "genre_ids": [],
+                    "popularity": 0.0,
+                    "release_date": "",
+                    "video": false,
+                    "vote_average": 0.0,
+                    "vote_count": 0
+                }
+            ]
+        },
+        {
+            "adult": false,
+            "id": 1605832,
+            "name": "Sonic Soul",
+            "original_name": "Sonic Soul",
+            "media_type": "person",
+            "popularity": 0.0,
+            "gender": 0,
+            "known_for_department": "Sound",
+            "profile_path": null,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": null,
+                    "id": 392848,
+                    "title": "Beautiful Pain",
+                    "original_title": "Redha",
+                    "overview": "A boy with autism causes a lot of hardships for his parents, as his father isn`t accepting the fact that he is different from the rest while his mother is trying her best to fit his needs. His mother later finds the right people to help her son live his life.",
+                    "poster_path": "/zpF6Hj9nvLJvMNjjqSzforPEQkX.jpg",
+                    "media_type": "movie",
+                    "original_language": "ms",
+                    "genre_ids": [
+                        18,
+                        10751
+                    ],
+                    "popularity": 2.4836,
+                    "release_date": "2016-04-14",
+                    "video": false,
+                    "vote_average": 7.8,
+                    "vote_count": 4
+                }
+            ]
+        }
+    ],
+    "total_pages": 11,
+    "total_results": 207
+}
