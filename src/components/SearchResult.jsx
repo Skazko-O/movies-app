@@ -1,16 +1,14 @@
 import { Card, Row, Col } from 'react-bootstrap';
 import MovieCard from './MovieCard';
-import { useState } from 'react';
 
-function SearchResult({ movies }) {
-  const [totalPages, setTotalPages] = useState(0)
-  const [totalItems, setTotalItems] = useState(0)
+function SearchResult({ movies }) { 
+   const { results, total, totalPages, currentPage } = movies;
   return (
     <Card>
-      <Card.Header><h4>Search result</h4></Card.Header>
+      <Card.Header><h4>Search result: {total} | Page {currentPage} of {totalPages}</h4></Card.Header>
       <Card.Body>
         <Row>
-          {movies.map(movie => (
+          {Array.isArray(results) && results.map(movie => (
             <Col key={movie.id} md={2} className="mb-2">
               <MovieCard movie={movie} />
             </Col>
