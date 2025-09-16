@@ -1,41 +1,21 @@
-import { useState } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Container from 'react-bootstrap/Container';
-import SearchForm from './components/SearchForm';
-import SearchResult from './components/SearchResult';
-import LoaderOverlay from './components/LoaderOverlay';
-import { searchMovie } from './api/searchMovie';
-import { delay } from './helpers/delay';
-import { toast, ToastContainer } from 'react-toastify';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import HomePage from './pages/HomePage.jsx'
+import AboutPage from './pages/AboutPage.jsx'
+import DetailPage from './pages/DetailPage.jsx'
+import { Route, Routes } from 'react-router-dom'
+import Layout from './Layout.jsx'
+
 
 
 function App() {
-  const [movies, setMovies] = useState([]); 
-  const [inProgress, setInProgress] = useState(false)
-
-  const searchHandler = async (query, type, year) => {
-    setInProgress(true);
-    try {
-      const results = await searchMovie(query, type, year);
-      setMovies(results);
-    } catch (err) {
-      toast.error('Some error ocurred, please try againe later.');
-      setMovies([]);
-    } finally {
-      await delay(1000);
-      setInProgress(false);
-    }
-  };
-
   return (
-    <>
-      {inProgress && <LoaderOverlay />}
-      <Container className="mt-4">
-        <SearchForm onSearch={searchHandler} />
-        <SearchResult movies={movies} />
-      </Container>
-      <ToastContainer position='top-center' />
-    </>
+      <Routes>
+      <Route path="/" element={<Layout />}>
+        <Route index element={<HomePage />} />
+        <Route path="about" element={<AboutPage />} />
+        <Route path="/detail/:media_type/:id" element={<DetailPage />} />
+      </Route>
+    </Routes>
   );
 }
 

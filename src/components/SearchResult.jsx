@@ -9,7 +9,7 @@ function SearchResult({ movies }) {
       <Card.Body>
         <Row>
           {Array.isArray(results) && results.map(movie => (
-            <Col key={movie.id} md={2} className="mb-2">
+            <Col key={movie.id} md={3} className="mb-3">
               <MovieCard movie={movie} />
             </Col>
           ))}
