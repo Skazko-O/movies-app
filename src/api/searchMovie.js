@@ -30,7 +30,7 @@ export async function searchMovie(query, type = 'movie', year = '', language = '
       params.append('first_air_date_year', year)
     }
   }
-
+console.log('Creating cacheKey with page:', page);
   const cacheKey = `${query.trim().toLowerCase().replaceAll(' ', '_')}_${type}_${year}_${page}`;
 
   const cached = getItem(cacheKey);
@@ -49,7 +49,7 @@ export async function searchMovie(query, type = 'movie', year = '', language = '
     const data = await response.json();
 
     if (!data.results || data.results.length === 0) {
-      throw new Error('Нічого не знайдено');
+      throw new Error('Nothing found');
     }
 
     let results = data.results;
@@ -80,7 +80,7 @@ export async function searchMovie(query, type = 'movie', year = '', language = '
     return finalData;
 
   } catch (err) {
-    console.error('Помилка при пошуку фільмів:', err.message)
+    console.error('Error searching for movies:', err.message)
 
     return {
       total: 0,

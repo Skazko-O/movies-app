@@ -9,31 +9,48 @@ import { delay } from '../helpers/delay';
 import { toast } from 'react-toastify';
 
 export default function HomePage() {
+  const [movies, setMovies] = useState({
+    results: [],
+    total: 0,
+    totalPages: 0,
+    currentPage: 1
+  });
 
-    const [movies, setMovies] = useState([]);
-    const [inProgress, setInProgress] = useState(false)
+  const [searchParams, setSearchParams] = useState({
+    query: '',
+    type: '',
+    year: ''
+  });
 
-    const searchHandler = async (query, type, year) => {
-        setInProgress(true);
-        try {
-            const results = await searchMovie(query, type, year);
-            setMovies(results);
-        } catch (err) {
-            toast.error('Some error ocurred, please try againe later.');
-            setMovies([]);
-        } finally {
-            await delay(1000);
-            setInProgress(false);
-        }
-    };
+  const [inProgress, setInProgress] = useState(false);
 
-    return (
-        <>
-            {inProgress && <LoaderOverlay />}
-            <Container className="mt-4">
-                <SearchForm onSearch={searchHandler} />
-                <SearchResult movies={movies} />
-            </Container>            
-        </>
-    )
+  const searchHandle = async ({ query, type, year }, page = 1) => {
+    setSearchParams({ query, type, year });
+    setInProgress(true);
+
+    try {
+      const results = await searchMovie(query, type, year, 'en-US', page);
+      setMovies(results);
+      console.log('Fetched page:', results.currentPage);
+    } catch (err) {
+      toast.error('Some error occurred, please try again later.');
+      setMovies([]);
+    } finally {
+      await delay(1000);
+      setInProgress(false);
+    }
+  };
+
+  return (
+    <>
+      {inProgress && <LoaderOverlay />}
+      <Container className="mt-4">
+        <SearchForm onSearch={(query, type, year) => searchHandle({ query, type, year })} />
+        <SearchResult
+          movies={movies}
+          onPageChange={(newPage) => searchHandle(searchParams, newPage)}
+        />
+      </Container>
+    </>
+  );
 }

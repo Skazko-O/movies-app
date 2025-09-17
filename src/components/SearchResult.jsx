@@ -4,12 +4,14 @@ import CustomPagination from './CustomPagination';
 import './../assets/css/search.css';
 
 
-function SearchResult({ movies, onPageChange }) {  
+function SearchResult({ movies, onPageChange }) {
   const { results, total, totalPages, currentPage } = movies;
-  
+
   return (
     <Card>
-      <Card.Header><h4>Search result: {total} | Page {currentPage} of {totalPages}</h4></Card.Header>
+      <Card.Header>
+        <h4>Search result: {total} | Page {currentPage} of {totalPages}</h4>
+      </Card.Header>
       <Card.Body>
         <Row>
           {Array.isArray(results) && results.map(movie => (
@@ -20,13 +22,13 @@ function SearchResult({ movies, onPageChange }) {
         </Row>
       </Card.Body>
       {totalPages > 1 && (
-      <div className='pagination-wrapper'>
-        <CustomPagination
-        currentPage={currentPage}
-        totalPages={totalPages}
-        onPageChange={onPageChange}  
-        />
-      </div>
+        <div className='pagination-wrapper'>
+          <CustomPagination
+            currentPage={currentPage}
+            totalPages={totalPages}
+            onPageChange={onPageChange}
+          />
+        </div>
       )}
     </Card>
   );
