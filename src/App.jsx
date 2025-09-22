@@ -14,8 +14,8 @@ function App() {
       <Route path="/" element={<Layout />}>
         <Route index element={<HomePage />} />
         <Route path="about" element={<AboutPage />} />
-        <Route path="/detail/:media_type/:id" element={<DetailPage />} />
-        <Route path="/favorites" element={<FavoritePage />} />
+        <Route path="detail/:media_type/:id" element={<DetailPage />} />
+        <Route path="favorites" element={<FavoritePage />} />
       </Route>
     </Routes>
   );

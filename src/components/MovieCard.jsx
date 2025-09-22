@@ -36,7 +36,7 @@ function MovieCard({ movie }) {
       const favMovie = {
         id: movie.id,
         title: movie.title || movie.name,
-        date: rawDate,
+        date: formateDate(rawDate),
         image: movie.image,
         type: movie.media_type
       };
@@ -59,7 +59,7 @@ function MovieCard({ movie }) {
         <Button
           variant="info"
           onClick={() =>
-            window.open(`/movies-app/detail/${movie.media_type}/${movie.id}`, '_blank', 'noopener,noreferrer')
+            window.open(`/movies-app/#detail/${movie.media_type}/${movie.id}`, '_blank', 'noopener,noreferrer')
           }
         >
           Detail
